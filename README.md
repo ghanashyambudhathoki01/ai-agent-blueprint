@@ -7,7 +7,7 @@
 
 ## Overview
 
-This repository hosts the essential insights from OpenAI’s *“A Practical Guide to Building Agents”*. This guide is crafted to empower product and engineering teams with the frameworks, best practices, and design principles needed to build robust, safe, and effective AI agents. It draws from real customer deployments to deliver actionable advice around agent design and orchestration.0
+This repository hosts the essential insights from OpenAI’s *“A Practical Guide to Building Agents”*. This guide is crafted to empower product and engineering teams with the frameworks, best practices, and design principles needed to build robust, safe, and effective AI agents. It draws from real customer deployments to deliver actionable advice around agent design and orchestration.
 
 ---
 
@@ -25,13 +25,13 @@ This repository hosts the essential insights from OpenAI’s *“A Practical Gui
 
 ## What is an Agent?
 
-An agent is a system that autonomously carries out complex, multi-step workflows on behalf of users such as booking reservations, resolving support issues, generating reports, or committing code. Unlike traditional software or simple LLM-based chatbots, agents are capable of orchestrating workflows with independence and reliability.1
+An agent is a system that autonomously carries out complex, multi-step workflows on behalf of users such as booking reservations, resolving support issues, generating reports, or committing code. Unlike traditional software or simple LLM-based chatbots, agents are capable of orchestrating workflows with independence and reliability.
 
 ---
 
 ## When to Use Agents
 
-Agents shine in scenarios where tasks are complex, involve judgment, or require multi-step reasoning not in repetitive or deterministic processes like translation, sentiment analysis, or transcription. Agents are best suited for tasks where autonomy, adaptability, and workflow orchestration are necessary.2
+Agents shine in scenarios where tasks are complex, involve judgment, or require multi-step reasoning not in repetitive or deterministic processes like translation, sentiment analysis, or transcription. Agents are best suited for tasks where autonomy, adaptability, and workflow orchestration are necessary.
 
 ---
 
@@ -44,8 +44,8 @@ Key components to consider when building an agent:
 - **Instructions & Prompts**: Clear, well-structured guidance governing behavior and logic.
 - **Orchestration Patterns**:
   - **Single Agent**: Ideal for simpler workflows.
-  - **Multi-Agent Architectures** (e.g., Manager Pattern): Useful when tasks need division of labor or coordination.3
-- **Iterative Development**: Begin with minimal functionality, test with users, learn, and expand gradually.4
+  - **Multi-Agent Architectures** (e.g., Manager Pattern): Useful when tasks need division of labor or coordination.
+- **Iterative Development**: Begin with minimal functionality, test with users, learn, and expand gradually.
 
 ---
 
