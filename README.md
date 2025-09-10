@@ -75,13 +75,13 @@ To begin building with this guide:
 
 ## Resources
 
-- **Original Guide**: [A Practical Guide to Building Agents (PDF)](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf)6  
+- **Original Guide**: [A Practical Guide to Building Agents (PDF)](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf) 
 - **Quick Summaries & Breakdowns**:
-  - Ivor’s summary blog on dev.to7  
-  - Medium breakdown by *zubair*8  
-  - “Data Science in Your Pocket” quick overview9  
-  - AI Automation Society's key checklist10  
-- **Community Feedback**: Reddit discussions on r/AI_Agents for insights and opinions11
+  - Ivor’s summary blog on dev.to 
+  - Medium breakdown by *zubair*
+  - “Data Science in Your Pocket” quick overview 
+  - AI Automation Society's key checklist
+- **Community Feedback**: Reddit discussions on r/AI_Agents for insights and opinions
 
 ---
 
